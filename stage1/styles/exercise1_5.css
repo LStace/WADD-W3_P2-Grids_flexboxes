@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    height: 300px;
+}
+
+#sq1{
+    align-self: flex-start;
+}
+
+#sq2{
+    /*margin-left: 100px;*/
+    align-self: center;
+    /*order: 4*/
+}
+
+#sq3{
+    /*margin-left: 200px;*/
+    align-self: flex-end;
+    /*order: 7*/
+}
+
+
+#sq4{
+    align-self: flex-start;
+    margin-left: -200px;
+}
+
+#sq5{
+    align-self: center;
+}
+
+#sq6{
+    align-self: flex-end;
+}
+
+#sq7{
+    align-self: flex-start;
+    margin-left: -200px;
+}
+
+#sq8{
+    align-self: center;
+}
+
+#sq9{
+    align-self: flex-end;
+}

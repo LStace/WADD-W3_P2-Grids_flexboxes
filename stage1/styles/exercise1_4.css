@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    height: 100%;
+    width: 30vw;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+#sq4{
+    order: 6;
+}
+
+#sq5{
+    order: 5;
+}
+
+#sq6{
+    order: 4;
+}
+
+#sq7{
+    order: 7;
+}
+
+#sq8{
+    order: 7;
+}
+
+#sq9{
+    order: 69;
+}
+
